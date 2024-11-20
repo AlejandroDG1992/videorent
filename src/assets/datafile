@@ -1,0 +1,161 @@
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_02.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">John Wick</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_03.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">Alien Romulus</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_04.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">Civil War</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_05.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">Killers of the flower moon</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_06.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">The Killer</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_07.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">The Batman</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_08.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">El Reino</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_09.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">As Bestas</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_10.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">Hogar</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_11.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">Quien a hierro mata</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+            <div className="col-md-6 col-lg-4 my-4 row align-items-center">
+                <div className="col-4">
+                    <img className="img-fluid" src="./public/img/film_12.jpg" alt="imagen película"/>
+                </div>
+                <div className="col-8">
+                    <h3 className="text-black fs-4 fw-bold text-uppercase">The Gentlemen</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit quae labore odit magnam in autem nesciunt, amet deserunt</p>
+                    <p className="fw-black text-primary fs-3">$299</p>
+                    <button 
+                        type="button"
+                        className="btn btn-dark w-100 "
+                    >Agregar al Carrito</button>
+                </div>
+            </div>
+        
