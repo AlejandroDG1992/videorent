@@ -50,8 +50,8 @@ export const db = [
     },
     {
         id: 8,
-        name: 'Dale',
-        image: 'El Reino',
+        name: 'El reino',
+        image: 'film_08',
         description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
         price: 379,
     },

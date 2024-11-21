@@ -7,6 +7,7 @@ import { db } from "./data/db"
 function App() {
 
     const [data, setData] = useState(db)
+    const [cart, setCart] = useState([])
 
   return (
     <>
@@ -17,12 +18,14 @@ function App() {
         <h2 className="text-center">Nuestra Colección</h2>
 
         <div className="row mt-5">
-            <Film/>
-            <Film/>
-            <Film/>
-            <Film/>
-            <Film/>
-
+            {data.map((film) => (
+            <Film
+            key = {film.id}
+            film = {film}
+            cart = {cart}
+            setCart={setCart}
+            />
+            )) }
             
         </div>
     </main>
