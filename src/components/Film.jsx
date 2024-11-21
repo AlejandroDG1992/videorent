@@ -1,10 +1,6 @@
-export default function Film({film, cart, setCart}) {
+export default function Film({film, addToCart}) {
 
     const {id, name, image, description, price } = film
-
-    const handleClick = (film) => {
-        setCart(film)
-    }
 
     return (       
         <div className="col-md-6 col-lg-4 my-4 row align-items-center">
@@ -18,7 +14,7 @@ export default function Film({film, cart, setCart}) {
                 <button 
                     type="button"
                     className="btn btn-dark w-100"
-                    onClick={() => handleClick(film)}
+                    onClick={() => addToCart(film)}
                 >Agregar al Carrito</button>
             </div>
         </div>
